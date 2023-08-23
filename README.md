@@ -1,6 +1,7 @@
 ### Hi there i'm vitor gabriel.
 
-Eu estudo sistemas para internet no Instituto Federal do Acre. Nesse perfil há um teste de site que fiz direcionado a livros, um simples projeto da faculdade. 
+Eu estudo sistemas para internet no Instituto Federal do Acre.
+Esse perfil faz parte dos estudos e vou adicionar alguns projetos que realizar na faculdade.  
 
 <!--
 **vitor-gblop/vitor-gblop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
