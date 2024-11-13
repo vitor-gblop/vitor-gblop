@@ -9,8 +9,12 @@ E desenvolvi  pequenos projetos como:
 - FireNotes (javascript / firebase)
 - Gerente de Projetos (javascript)
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,firebase,nodejs,python,php,mysql&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=godot,blender,unity&theme=dark)](https://skillicons.dev)
+Minhas Habilidades:
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,nodejs,python,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,firebase,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,godot,blender,unity&theme=dark)](https://skillicons.dev)
 
 <!--
 **vitor-gblop/vitor-gblop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
