@@ -1,13 +1,13 @@
-### Hi there i'm vitor gabriel. 😎
+### Hi there i'm vitor gabriel.
 
 Eu estudo sistemas para internet no Instituto Federal do Acre.
 Esse perfil faz parte dos estudos e vou pretendo adicionar alguns projetos que realizar na faculdade e alem dela. 
 
 Estudo atualmente PHP, JAVA e FIREBASE, entre outras linguagens e tenho usado para meus projetos principalmente HTML e JAVACRIPT.
-E desenvolvi  pequenos projetos como:
+E desenvolvi projetos como:
 - AcessoLock (javascript / firebase / php)
 - FireNotes (javascript / firebase)
-- Gerente de Projetos (javascript)
+- Sistema de pedidos para lanches(loja - cliente) (PHP/ SASS)
 
 Minhas Habilidades:
 
