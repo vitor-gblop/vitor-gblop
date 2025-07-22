@@ -16,17 +16,34 @@ Minhas Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=godot,blender,unity&theme=dark)](https://skillicons.dev)
 
+
+
+<!-- -->
+
+## 📊 GitHub Stats
+
+ <a href="https://github.com/vitor-gblop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhwwh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhwwh&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
+---
+
+## 🛠️ Tecnologias que uso
+
+<div style="display: flex; flex-direction: row"><br>
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+</div>
+
+---
+
+
 <!--
-**vitor-gblop/vitor-gblop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Onde me encontrar
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ [Seu Email ou LinkedIn aqui]
+- 🌐 [Portfólio ou Site pessoal, se tiver]
+- 💬 Me chama pra conversar sobre código, desafios ou projetos!-->
