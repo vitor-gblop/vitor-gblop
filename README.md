@@ -1,15 +1,13 @@
-### Hi there i'm vitor gabriel.
+# Hi there i'm Vitor Gabriel.
 
-Eu estudo sistemas para internet no Instituto Federal do Acre.
-Esse perfil faz parte dos estudos e vou pretendo adicionar alguns projetos que realizar na faculdade e alem dela. 
+## ✨ Sobre mim
 
-Estudo atualmente PHP, JAVA e FIREBASE, entre outras linguagens e tenho usado para meus projetos principalmente HTML e JAVACRIPT.
-E desenvolvi projetos como:
-- AcessoLock (javascript / firebase / php)
-- FireNotes (javascript / firebase)
-- Sistema de pedidos para lanches(loja - cliente) (PHP/ SASS)
+Olá! Sou Vítor, estudante de Sistemas para Internet no **Instituto Federal do Acre**. Este perfil foi criado como parte dos meus estudos e está em constante evolução com os projetos que desenvolvo tanto na faculdade quanto por iniciativa própria.
 
-Minhas Habilidades:
+Atualmente venho me dedicando ao aprendizado e aplicação de tecnologias como **PHP**, **Java**, **Firebase**, **HTML**, **JavaScript**, entre outras. Tenho especial interesse por desenvolvimento web e sistemas interativos que combinam eficiência com uma boa experiência de usuário.
+
+
+## 🛠️ Tecnologias que utilizo
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,python,php&theme=dark)](https://skillicons.dev)
@@ -18,27 +16,26 @@ Minhas Habilidades:
 
 
 
-<!-- -->
+## 🚀 Projetos em destaque
+
+- **AcessoLock** – Sistema de controle de acesso usando JavaScript, Firebase e PHP  
+- **FireNotes** – Aplicativo de anotações com armazenamento em tempo real via Firebase  
+- **Sistema de Pedidos para Lanches** – Plataforma integrada (loja e cliente) desenvolvida em PHP e SASS
+
+
+---
+
+Estou sempre buscando aprimorar minhas habilidades, e novos projetos estão a caminho!   
+Se quiser ver mais, fique à vontade para explorar meus repositórios. 🤓
+
+---
 
 ## 📊 GitHub Stats
 
  <a href="https://github.com/vitor-gblop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-gblop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-gblop&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
----
-
-## 🛠️ Tecnologias que uso
-
-<div style="display: flex; flex-direction: row"><br>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-</div>
-
----
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-gblop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ </div>
 
 
 <!--
