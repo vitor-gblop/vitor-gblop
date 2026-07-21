@@ -18,9 +18,7 @@ Atualmente venho me dedicando ao aprendizado e aplicação de tecnologias como *
 
 ## 🚀 Projetos em destaque
 
-- **AcessoLock** – Sistema de controle de acesso usando JavaScript, Firebase e PHP  
-- **FireNotes** – Aplicativo de anotações com armazenamento em tempo real via Firebase  
-- **Sistema de Pedidos para Lanches** – Plataforma integrada (loja e cliente) desenvolvida em PHP e SASS
+- **SCAR** – Sistema de controle de acesso a armarios e outros, utiliza Java, Typescript e React
 
 
 ---
