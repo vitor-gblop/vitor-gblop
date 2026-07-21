@@ -1,13 +1,13 @@
 # Hi there i'm Vitor Gabriel.
 
-## ✨ Sobre mim
+## Sobre mim
 
 Olá! Sou Vítor, estudante de Sistemas para Internet no **Instituto Federal do Acre**. Este perfil foi criado como parte dos meus estudos e está em constante evolução com os projetos que desenvolvo tanto na faculdade quanto por iniciativa própria.
 
 Atualmente venho me dedicando ao aprendizado e aplicação de tecnologias como **PHP**, **Java**, **Firebase**, **HTML**, **JavaScript**, entre outras. Tenho especial interesse por desenvolvimento web e sistemas interativos que combinam eficiência com uma boa experiência de usuário.
 
 
-## 🛠️ Tecnologias que utilizo
+## Tecnologias que utilizo
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs&theme=dark)](https://skillicons.dev)
@@ -16,17 +16,16 @@ Atualmente venho me dedicando ao aprendizado e aplicação de tecnologias como *
 
 
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 - **SCAR** – Sistema de controle de acesso a armarios e outros, utiliza Java, Typescript e React
 
 
----
 
-Estou sempre buscando aprimorar minhas habilidades, e novos projetos estão a caminho!   
+Estou sempre buscando aprimorar minhas habilidades, com novos projetos estão a caminho!   
 Se quiser ver mais, fique à vontade para explorar meus repositórios. 🤓
 
----
+
 
 ## 📊 GitHub Stats
 
