@@ -9,10 +9,10 @@ Atualmente venho me dedicando ao aprendizado e aplicação de tecnologias como *
 
 ## 🛠️ Tecnologias que utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescrypt,html,css&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,php&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=godot,blender,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,react,firebase,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot&theme=dark)](https://skillicons.dev)
 
 
 
