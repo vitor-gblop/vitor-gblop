@@ -19,7 +19,7 @@ Atualmente venho me dedicando ao aprendizado e aplicação de tecnologias como *
 ## Projetos em destaque
 
 - **SCAR** – Sistema de controle de acesso a armarios e outros, utiliza Java, Typescript e React
-
+- **Tera Vault** - Um sistema de gerenciamento de chaves secretas, composto por uma API express em Node.js e uma aplicação React com tailwindcss.
 
 
 Estou sempre buscando aprimorar minhas habilidades, com novos projetos estão a caminho!   
